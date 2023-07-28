@@ -1,12 +1,16 @@
 # Assignment-1-Resume
 ![Screenshot 2023-07-28 174410](https://github.com/Lok-ii/Assignment-1-Resume/assets/129180844/42fe0950-9a32-427c-9603-8544179203d9)
 In this first screenshot attached above :-
+    
     In the first line We have "!DOCTYPE html", which declares the document type
+    
     "html" tag, which defines the whole html document.
+    
     Then I have used the "head" contains meta information about the HTML page such as title of the webpage(using "title" tag)
   
 ![Screenshot 2023-07-28 174637](https://github.com/Lok-ii/Assignment-1-Resume/assets/129180844/1cf8a6ef-e46d-49df-8e44-9f17e3fdb5d5)
 In this second screenshot :- 
+    
     "body" tag define the document's body, it is used for all the content we want to show on our webpage.
     "h1" is a heading tag which is used to give headings to the content (there are 6 of them, h1 is used for the most important headings, and it keeps reducing to h6).
     Then comes the "p" tag, which is used to write paragraphs or any kind of text or lines.
@@ -15,6 +19,7 @@ In this second screenshot :-
 
 ![Screenshot 2023-07-28 174726](https://github.com/Lok-ii/Assignment-1-Resume/assets/129180844/fdc2f742-b511-4b18-b25d-99536eb5e2a1)
 In this third screenshot :-
+   
     Again two heading tags are used, "h2" is used for heading but it is smaller than the "h1" tag and "h3" is smaller than "h2".
     Then comes the paragraph tag "p" but this time a break tag is used inside the paragraph tag. "br" tag breaks the line and anything after that starts from the next line.
     Once more the "hr" tag is used for the horizontal rule/line.
@@ -22,6 +27,7 @@ In this third screenshot :-
     
 ![Screenshot 2023-07-28 174810](https://github.com/Lok-ii/Assignment-1-Resume/assets/129180844/ccfad7dd-125b-4e3a-b2e3-c00676a1d46b)
 In this fourth screenshot :- 
+    
     "h3" tag is used for heading.
     After that "ul" tag is used which is used to create an unordered list and inside the unordered list "li" tag is used to create the list data/item.
     Then comes the "hr" tag again for the horizontal line.
